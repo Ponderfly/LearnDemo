@@ -2,4 +2,9 @@
 # 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
 ################################################################################
 
-/Blazor/Ecommerce/Ecommerce/Client/bin/Debug/net6.0
+/Blazor/Ecommerce/Ecommerce/Client/bin/
+/Blazor/Ecommerce/Ecommerce/Client/obj/
+/Blazor/Ecommerce/Ecommerce/Shared/bin/
+/Blazor/Ecommerce/Ecommerce/Shared/obj/
+/Blazor/Ecommerce/Ecommerce/Server/bin/
+/Blazor/Ecommerce/Ecommerce/Server/obj/

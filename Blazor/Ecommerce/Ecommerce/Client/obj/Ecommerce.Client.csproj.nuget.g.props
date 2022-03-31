@@ -7,7 +7,7 @@
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">J:\NuGet\packages</NuGetPackageRoot>
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">J:\NuGet\packages;J:\Program Files (x86)\DevExpress 21.2\Components\Offline Packages;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages;C:\Program Files\dotnet\sdk\NuGetFallbackFolder</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
-    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.1.0</NuGetToolVersion>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.0.0</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="J:\NuGet\packages\" />
