@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HfpsfJa/DrnZ8iDvVzrqhmbddKIOhin85mPNT8tlzOB2M0+ai7Qwl7VQvpy4zTRkuxiqIOUdmbh2yWG1A+iUtQ==",
+  "dgSpecHash": "SmXjMH/S7f2fsggk1KK1Uwf6zAq8rrBg1SiVwOYgcvkHE9iEUy2y3xdrK/2STBTzWfD85T4bnRBUfnSO7ODDdA==",
   "success": true,
   "projectFilePath": "J:\\VS\\LearnDemo\\Blazor\\Ecommerce\\Ecommerce\\Server\\Ecommerce.Server.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "J:\\NuGet\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.3\\microsoft.aspnetcore.components.webassembly.6.0.3.nupkg.sha512",
     "J:\\NuGet\\packages\\microsoft.aspnetcore.components.webassembly.server\\6.0.3\\microsoft.aspnetcore.components.webassembly.server.6.0.3.nupkg.sha512",
     "J:\\NuGet\\packages\\microsoft.aspnetcore.metadata\\6.0.3\\microsoft.aspnetcore.metadata.6.0.3.nupkg.sha512",
+    "J:\\NuGet\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "J:\\NuGet\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "J:\\NuGet\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "J:\\NuGet\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
@@ -28,6 +29,11 @@
     "J:\\NuGet\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "J:\\NuGet\\packages\\microsoft.jsinterop\\6.0.3\\microsoft.jsinterop.6.0.3.nupkg.sha512",
     "J:\\NuGet\\packages\\microsoft.jsinterop.webassembly\\6.0.3\\microsoft.jsinterop.webassembly.6.0.3.nupkg.sha512",
+    "J:\\NuGet\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "J:\\NuGet\\packages\\swashbuckle.aspnetcore\\6.3.0\\swashbuckle.aspnetcore.6.3.0.nupkg.sha512",
+    "J:\\NuGet\\packages\\swashbuckle.aspnetcore.swagger\\6.3.0\\swashbuckle.aspnetcore.swagger.6.3.0.nupkg.sha512",
+    "J:\\NuGet\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.0\\swashbuckle.aspnetcore.swaggergen.6.3.0.nupkg.sha512",
+    "J:\\NuGet\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.0\\swashbuckle.aspnetcore.swaggerui.6.3.0.nupkg.sha512",
     "J:\\NuGet\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "J:\\NuGet\\packages\\system.io.pipelines\\6.0.2\\system.io.pipelines.6.0.2.nupkg.sha512",
     "J:\\NuGet\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",

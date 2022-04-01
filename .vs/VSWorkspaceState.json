@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Blazor"
+    "\\Blazor",
+    "\\Blazor\\Ecommerce",
+    "\\Blazor\\Ecommerce\\Ecommerce",
+    "\\Blazor\\Ecommerce\\Ecommerce\\Client",
+    "\\Blazor\\Ecommerce\\Ecommerce\\Client\\Shared"
   ],
-  "SelectedNode": "\\Blazor",
+  "SelectedNode": "\\Blazor\\Ecommerce\\Ecommerce.sln",
   "PreviewInSolutionExplorer": false
 }

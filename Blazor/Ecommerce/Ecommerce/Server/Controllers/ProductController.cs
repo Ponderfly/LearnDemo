@@ -2,11 +2,41 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Ecommerce.Server.Controllers;
 
-public class ProductController : Controller
+[Route("api/[controller]")]
+[ApiController]
+public class ProductController : ControllerBase
 {
-    // GET
-    public IActionResult Index()
+    private static List<Product> Products = new()
     {
-        return View();
+        new Product
+        {
+            Id = 1,
+            Title = "aaa",
+            Description = "aaa111",
+            ImageUrl = "",
+            Price = 9.99m,
+        },
+        new Product
+        {
+            Id = 2,
+            Title = "bbb",
+            Description = "bbb222",
+            ImageUrl = "",
+            Price = 7.99m,
+        },
+        new Product
+        {
+            Id = 3,
+            Title = "ccc",
+            Description = "ccc222",
+            ImageUrl = "",
+            Price = 6.99m,
+        }
+    };
+    
+    [HttpGet]
+    public async Task<ActionResult<List<Product>>> GetProduct()
+    {
+        return Ok(Products);
     }
 }
