@@ -8,18 +8,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b26a93e9-b96b-4c2f-9506-58e13f68fd08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ecommerce/Client/Shared/ProductList.razor.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ecommerce/Server/Controllers/ProductController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.vs/VSWorkspaceState.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../.vs/VSWorkspaceState.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../../.vs/slnx.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Ecommerce/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ecommerce/Server/.idea/Server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Ecommerce/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ecommerce/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Ecommerce/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ecommerce/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Ecommerce/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/v17/.futdcache.v1" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Ecommerce/v17/.futdcache.v1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Ecommerce/v17/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/Shared/ProductList.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/Shared/ProductList.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/obj/Debug/net6.0/Ecommerce.Client.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/obj/Debug/net6.0/Ecommerce.Client.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Client/obj/Debug/net6.0/Ecommerce.Client.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/obj/Debug/net6.0/Ecommerce.Client.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/obj/Ecommerce.Client.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/obj/Ecommerce.Client.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Server/Ecommerce.Server.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/Ecommerce.Server.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Server/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Server/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/appsettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Server/obj/Debug/net6.0/Ecommerce.Server.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/obj/Debug/net6.0/Ecommerce.Server.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Server/obj/Debug/net6.0/Ecommerce.Server.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/obj/Debug/net6.0/Ecommerce.Server.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Server/obj/Ecommerce.Server.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/obj/Ecommerce.Server.csproj.nuget.dgspec.json" afterDir="false" />
@@ -28,6 +31,12 @@
       <change beforePath="$PROJECT_DIR$/Ecommerce/Server/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Server/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Server/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Shared/Product.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Shared/Product.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Shared/obj/Debug/net6.0/Ecommerce.Shared.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Shared/obj/Debug/net6.0/Ecommerce.Shared.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Shared/obj/Ecommerce.Shared.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Shared/obj/Ecommerce.Shared.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Shared/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Shared/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Shared/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Shared/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Shared/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Shared/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +50,14 @@
       </list>
     </option>
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/18eeac48ee354d60b82f66d8fbd826641cb880/b5/5d0a8ede/ActionResult.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -53,14 +70,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Ecommerce.Client: Ecommerce">
     <configuration name="Ecommerce.Client: Ecommerce" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Ecommerce/Client/Ecommerce.Client.csproj" />
@@ -135,6 +151,14 @@
       <workItem from="1648735956437" duration="365000" />
       <workItem from="1648736446414" duration="2765000" />
       <workItem from="1648815729564" duration="4480000" />
+      <workItem from="1648904775488" duration="1394000" />
+      <workItem from="1648961308538" duration="826000" />
+      <workItem from="1649676887063" duration="673000" />
+      <workItem from="1649678293964" duration="793000" />
+      <workItem from="1649767323808" duration="1244000" />
+      <workItem from="1649771608550" duration="1197000" />
+      <workItem from="1650287406557" duration="1804000" />
+      <workItem from="1650633361859" duration="6213000" />
     </task>
     <servers />
   </component>
