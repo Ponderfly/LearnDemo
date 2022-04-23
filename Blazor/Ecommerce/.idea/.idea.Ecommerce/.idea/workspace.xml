@@ -9,14 +9,12 @@
   <component name="ChangeListManager">
     <list default="true" id="b26a93e9-b96b-4c2f-9506-58e13f68fd08" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Ecommerce/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ecommerce/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Ecommerce/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/v17/.futdcache.v1" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Ecommerce/v17/.futdcache.v1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Ecommerce/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/Pages/FetchData.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/Pages/FetchData.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Client/Shared/ProductList.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/Shared/ProductList.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/obj/Debug/net6.0/Ecommerce.Client.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/obj/Debug/net6.0/Ecommerce.Client.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/_Imports.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/_Imports.razor" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Server/Controllers/ProductController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/Controllers/ProductController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Server/GlobalUsings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/GlobalUsings.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Server/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Server/obj/Debug/net6.0/Ecommerce.Server.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/obj/Debug/net6.0/Ecommerce.Server.csproj.AssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,7 +139,7 @@
       <workItem from="1649771608550" duration="1197000" />
       <workItem from="1650287406557" duration="1804000" />
       <workItem from="1650633361859" duration="6311000" />
-      <workItem from="1650692990238" duration="3131000" />
+      <workItem from="1650692990238" duration="4831000" />
     </task>
     <servers />
   </component>
