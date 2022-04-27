@@ -13,22 +13,19 @@
       <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Ecommerce/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/v17/.futdcache.v1" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Ecommerce/v17/.futdcache.v1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Ecommerce/v17/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/GlobalUsings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/GlobalUsings.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/Pages/Index.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/Pages/Index.razor" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Client/Pages/ProductDetails.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/Pages/ProductDetails.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/Pages/ProductDetails.razor.css" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/Pages/ProductDetails.razor.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Client/Services/ProductService/IProductService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/Services/ProductService/IProductService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Client/Services/ProductService/ProductService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/Services/ProductService/ProductService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/Shared/NavMenu.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/Shared/NavMenu.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/Shared/NavMenu.razor.css" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/Shared/NavMenu.razor.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/_Imports.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/_Imports.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/Shared/ProductList.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/Shared/ProductList.razor" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Client/obj/Debug/net6.0/Ecommerce.Client.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/obj/Debug/net6.0/Ecommerce.Client.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/wwwroot/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/wwwroot/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Server/Controllers/ProductController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/Controllers/ProductController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Server/Data/DataContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/Data/DataContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Server/Ecommerce.Server.csproj.user" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/Ecommerce.Server.csproj.user" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Server/Ecommerce.db" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/Ecommerce.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Server/GlobalUsings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/GlobalUsings.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Server/Migrations/DataContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/Migrations/DataContextModelSnapshot.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Server/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Server/Services/ProductService/IProductService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/Services/ProductService/IProductService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Server/Services/ProductService/ProductService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/Services/ProductService/ProductService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Server/obj/Debug/net6.0/Ecommerce.Server.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/obj/Debug/net6.0/Ecommerce.Server.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Shared/Product.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Shared/Product.cs" afterDir="false" />
     </list>
@@ -167,6 +164,8 @@
       <workItem from="1650889334814" duration="2842000" />
       <workItem from="1650893568917" duration="2342000" />
       <workItem from="1650896241358" duration="1745000" />
+      <workItem from="1650980198770" duration="797000" />
+      <workItem from="1651064126387" duration="7102000" />
     </task>
     <servers />
   </component>
