@@ -8,26 +8,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b26a93e9-b96b-4c2f-9506-58e13f68fd08" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../../.vs/slnx.sqlite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Ecommerce/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ecommerce/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Ecommerce/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/FileContentIndex/087ffdff-e463-4db0-8a2e-31aa582398cc.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/FileContentIndex/0dc4f522-94ca-41f6-8d97-d002d113edd0.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/FileContentIndex/85ae5361-1f4f-4d2d-8eb4-8cfb59018fb0.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/FileContentIndex/7ad5b3dc-f90f-4f78-9f77-3a9aed526847.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/FileContentIndex/99a3d5b3-eea7-44a5-b56b-c6dc5d02e1f8.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/FileContentIndex/dd08dc37-d89d-4e56-a377-7809a186118b.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/FileContentIndex/e11b5c8c-aeab-41c6-9eaf-c18094f01bee.vsidx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Ecommerce/v17/.suo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/ecommerce.metadata.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/ecommerce.metadata.v2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/ecommerce.projects.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/ecommerce.projects.v2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Client/Pages/Index.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/Pages/Index.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/Services/ProductService/IProductService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/Services/ProductService/IProductService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Client/Services/ProductService/ProductService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/Services/ProductService/ProductService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/obj/Debug/net6.0/Ecommerce.Client.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/obj/Debug/net6.0/Ecommerce.Client.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/Shared/ProductList.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/Shared/ProductList.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/Shared/ProductList.razor.css" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/Shared/ProductList.razor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/Shared/Search.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/Shared/Search.razor" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Client/obj/Debug/net6.0/Ecommerce.Client.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/obj/Debug/net6.0/Ecommerce.Client.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/obj/Release/net6.0/Ecommerce.Client.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/obj/Release/net6.0/Ecommerce.Client.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/obj/Release/net6.0/Ecommerce.Client.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/obj/Release/net6.0/Ecommerce.Client.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/obj/Release/net6.0/Ecommerce.Client.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/obj/Release/net6.0/Ecommerce.Client.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Server/Controllers/ProductController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/Controllers/ProductController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Server/Data/DataContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/Data/DataContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Server/Ecommerce.db" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/Ecommerce.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Server/Migrations/DataContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/Migrations/DataContextModelSnapshot.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Server/Services/ProductService/IProductService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/Services/ProductService/IProductService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Server/Services/ProductService/ProductService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/Services/ProductService/ProductService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Server/obj/Debug/net6.0/Ecommerce.Server.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/obj/Debug/net6.0/Ecommerce.Server.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Shared/Product.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Shared/Product.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Server/obj/Release/net6.0/Ecommerce.Server.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/obj/Release/net6.0/Ecommerce.Server.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Server/obj/Release/net6.0/Ecommerce.Server.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/obj/Release/net6.0/Ecommerce.Server.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Shared/obj/Release/net6.0/Ecommerce.Shared.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Shared/obj/Release/net6.0/Ecommerce.Shared.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Shared/obj/Release/net6.0/Ecommerce.Shared.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Shared/obj/Release/net6.0/Ecommerce.Shared.csproj.AssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +69,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/18eeac48ee354d60b82f66d8fbd826641cb880/b5/5d0a8ede/ActionResult.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://J:/VS/LearnDemo/Blazor/Ecommerce/Ecommerce/Client/Services/ProductService/IProductService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://J:/VS/LearnDemo/Blazor/Ecommerce/Ecommerce/Client/Shared/ProductList.razor" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="mock://J:/VS/LearnDemo/Blazor/Ecommerce/Ecommerce/Server/Controllers/ProductController.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -70,14 +82,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "preferences.fileTypes",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Ecommerce.Client: Ecommerce">
     <configuration name="Ecommerce.Client: Ecommerce" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Ecommerce/Client/Ecommerce.Client.csproj" />
@@ -173,7 +185,7 @@
       <workItem from="1651758941520" duration="2837000" />
       <workItem from="1651840391462" duration="3015000" />
       <workItem from="1651926873748" duration="2755000" />
-      <workItem from="1652510859035" duration="5007000" />
+      <workItem from="1652510859035" duration="12872000" />
     </task>
     <servers />
   </component>

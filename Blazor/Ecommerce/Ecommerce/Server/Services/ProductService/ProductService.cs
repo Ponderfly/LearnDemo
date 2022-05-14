@@ -13,7 +13,7 @@
         {
             var response = new ServiceResponse<List<Product>>()
             {
-                Data = 
+                Data =
                     await _context.Products.Include(p => p.Variants).ToListAsync()
             };
             return response;
@@ -51,11 +51,26 @@
             return response;
         }
 
-        public async Task<ServiceResponse<List<Product>>> SearchProducts(string searchText)
+        public async Task<ServiceResponse<ProductSearchResult>> SearchProducts(string searchText, int page)
         {
-            var response = new ServiceResponse<List<Product>>
+            var pageResult = 2f;
+            var pageCount = Math.Ceiling((await FindProductBySearchText(searchText)).Count / pageResult);
+            var products = await _context.Products
+                .Where(p => p.Title.ToLower().Contains(searchText.ToLower())
+                            ||
+                            p.Description.ToLower().Contains(searchText.ToLower()))
+                .Include(p => p.Variants)
+                .Skip((page - 1) * (int)pageResult)
+                .Take((int)pageResult)
+                .ToListAsync();
+            var response = new ServiceResponse<ProductSearchResult>
             {
-                Data = await FindProductBySearchText(searchText)
+                Data = new ProductSearchResult()
+                {
+                    Products = products,
+                    CurrentPage = page,
+                    Pages = (int)pageCount
+                }
             };
             return response;
         }
@@ -76,7 +91,7 @@
             List<string> result = new List<string>();
             foreach (var product in products)
             {
-                if(product.Title.Contains(searchText, StringComparison.OrdinalIgnoreCase))
+                if (product.Title.Contains(searchText, StringComparison.OrdinalIgnoreCase))
                 {
                     result.Add(product.Title);
                 }
@@ -90,7 +105,7 @@
 
                     foreach (var word in words)
                     {
-                        if (word.Contains(searchText,StringComparison.OrdinalIgnoreCase)
+                        if (word.Contains(searchText, StringComparison.OrdinalIgnoreCase)
                             && !result.Contains(word))
                         {
                             result.Add(word);
@@ -98,7 +113,8 @@
                     }
                 }
             }
-            return new ServiceResponse<List<string>>{
+            return new ServiceResponse<List<string>>
+            {
                 Data = result
             };
         }
