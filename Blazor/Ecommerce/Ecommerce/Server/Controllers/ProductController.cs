@@ -47,4 +47,11 @@ public class ProductController : ControllerBase
         var result = await _productService.GetProductSuggestions(searchText);
         return Ok(result);
     }
+    
+    [HttpGet("featured")]
+    public async Task<ActionResult<ServiceResponse<List<Product>>>> GetFuaturedProducts()
+    {
+        var result = await _productService.GetFeaturedProducts();
+        return Ok(result);
+    }
 }
