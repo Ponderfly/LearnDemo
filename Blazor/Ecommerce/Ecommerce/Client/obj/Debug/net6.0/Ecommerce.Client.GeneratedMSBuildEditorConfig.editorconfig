@@ -50,6 +50,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdERldGFpbHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-e4r9lqhdho
 
+[J:/VS/LearnDemo/Blazor/Ecommerce/Ecommerce/Client/Shared/HomeButton.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhvbWVCdXR0b24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-wc4ei3ku3e
+
 [J:/VS/LearnDemo/Blazor/Ecommerce/Ecommerce/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-7eg9tyu1b7
