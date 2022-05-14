@@ -8,35 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b26a93e9-b96b-4c2f-9506-58e13f68fd08" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../../.vs/slnx.sqlite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Ecommerce/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ecommerce/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Ecommerce/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/FileContentIndex/7ad5b3dc-f90f-4f78-9f77-3a9aed526847.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/FileContentIndex/99a3d5b3-eea7-44a5-b56b-c6dc5d02e1f8.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/FileContentIndex/dd08dc37-d89d-4e56-a377-7809a186118b.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/FileContentIndex/e11b5c8c-aeab-41c6-9eaf-c18094f01bee.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Ecommerce/v17/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/ecommerce.metadata.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/ecommerce.metadata.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/ecommerce.projects.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/ecommerce.projects.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/Pages/Index.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/Pages/Index.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/Services/ProductService/IProductService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/Services/ProductService/IProductService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/Services/ProductService/ProductService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/Services/ProductService/ProductService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/Shared/ProductList.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/Shared/ProductList.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/Shared/ProductList.razor.css" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/Shared/ProductList.razor.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/Shared/Search.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/Shared/Search.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/obj/Debug/net6.0/Ecommerce.Client.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/obj/Debug/net6.0/Ecommerce.Client.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/obj/Release/net6.0/Ecommerce.Client.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/obj/Release/net6.0/Ecommerce.Client.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/obj/Release/net6.0/Ecommerce.Client.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/obj/Release/net6.0/Ecommerce.Client.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/obj/Release/net6.0/Ecommerce.Client.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/obj/Release/net6.0/Ecommerce.Client.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Server/Controllers/ProductController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/Controllers/ProductController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Server/Services/ProductService/IProductService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/Services/ProductService/IProductService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Server/Services/ProductService/ProductService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/Services/ProductService/ProductService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Server/obj/Debug/net6.0/Ecommerce.Server.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/obj/Debug/net6.0/Ecommerce.Server.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Server/obj/Release/net6.0/Ecommerce.Server.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/obj/Release/net6.0/Ecommerce.Server.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Server/obj/Release/net6.0/Ecommerce.Server.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/obj/Release/net6.0/Ecommerce.Server.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Shared/obj/Release/net6.0/Ecommerce.Shared.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Shared/obj/Release/net6.0/Ecommerce.Shared.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Shared/obj/Release/net6.0/Ecommerce.Shared.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Shared/obj/Release/net6.0/Ecommerce.Shared.csproj.AssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +158,7 @@
       <workItem from="1651758941520" duration="2837000" />
       <workItem from="1651840391462" duration="3015000" />
       <workItem from="1651926873748" duration="2755000" />
-      <workItem from="1652510859035" duration="12872000" />
+      <workItem from="1652510859035" duration="13528000" />
     </task>
     <servers />
   </component>
