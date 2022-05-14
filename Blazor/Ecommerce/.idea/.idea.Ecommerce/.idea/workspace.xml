@@ -12,9 +12,24 @@
       <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Ecommerce/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/v17/.futdcache.v1" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Ecommerce/v17/.futdcache.v1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/Ecommerce/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Ecommerce/v17/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/App.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/App.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/obj/Debug/net6.0/Ecommerce.Client.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/obj/Debug/net6.0/Ecommerce.Client.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/obj/Debug/net6.0/Ecommerce.Client.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/obj/Debug/net6.0/Ecommerce.Client.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/obj/Debug/net6.0/Ecommerce.Client.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/obj/Debug/net6.0/Ecommerce.Client.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/obj/Ecommerce.Client.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/obj/Ecommerce.Client.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Client/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Client/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Server/obj/Debug/net6.0/Ecommerce.Server.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/obj/Debug/net6.0/Ecommerce.Server.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ecommerce/Server/obj/Debug/net6.0/Ecommerce.Server.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/obj/Debug/net6.0/Ecommerce.Server.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Server/obj/Ecommerce.Server.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/obj/Ecommerce.Server.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Server/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Server/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Server/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Server/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Shared/obj/Debug/net6.0/Ecommerce.Shared.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Shared/obj/Debug/net6.0/Ecommerce.Shared.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Shared/obj/Debug/net6.0/Ecommerce.Shared.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Shared/obj/Debug/net6.0/Ecommerce.Shared.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Shared/obj/Ecommerce.Shared.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Shared/obj/Ecommerce.Shared.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Shared/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Shared/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Shared/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Shared/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce/Shared/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce/Shared/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,6 +173,8 @@
       <workItem from="1651757861434" duration="1025000" />
       <workItem from="1651758941520" duration="2837000" />
       <workItem from="1651840391462" duration="3015000" />
+      <workItem from="1651926873748" duration="2755000" />
+      <workItem from="1652510859035" duration="1205000" />
     </task>
     <servers />
   </component>
@@ -172,7 +189,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
